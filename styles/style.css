@@ -1,0 +1,52 @@
+body{
+    margin:0px;
+}
+.container
+{
+    /* width: 70%; */
+    background-color: blueviolet;
+    margin-left :10%;
+    margin-right: 10%;
+    padding:5%;
+    border: 2px solid red;
+    /* border-width: 10px ; */
+    /* border-width: 10px 8px 6px 4px; */
+    /* border-color:red; */
+
+    /* border-left-color: red;
+    border-top-color: yellow;
+    border-right-color:aqua;
+    border-bottom-color:blue; */
+    /* border-color: black red green yellow; */
+   
+    /* border-style: solid; */
+    /* border:width style color; */
+}
+.box
+{ 
+    height: 82px;
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid green;
+    text-align: center;
+    background-color: pink;
+    font-size: 55px;
+    padding-top: 18px;
+}
+.box:hover
+{
+    background-color: yellow;
+    font-size: 60px;
+    padding-top: 16px;
+    height: 84px;
+}
+.demo
+{
+    height: 100px;
+    width:100px;
+    /* background-color: rgb(142, 25, 86); */
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom: 5px solid red;border-top-right-radius: 50%;
+    border-right: 5px solid green;
+}

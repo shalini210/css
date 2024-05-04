@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(231, 201, 164);
+    /* display: flex;
+    flex-wrap: wrap; */
+    
+}
+.box
+{
+    height:150px;
+    width:150px;
+    background-color: yellowgreen;
+    border: 2px solid black;
+    font-size: 100px;
+    display: flex;
+    
+}
+.circle
+{
+    height:50px;width:50px;border-radius: 50%; background-color: black;
+}
